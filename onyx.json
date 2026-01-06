@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "stahed",
+            "oem": "Poco",
+            "device": "Poco F7",
+            "filename": "crDroidAndroid-16.0-20260105-onyx-v12.5.zip",
+            "download": "https://sourceforge.net/projects/jyr/files/builds/crdroid/crDroidAndroid-16.0-20260105-onyx-v12.5.zip/download",
+            "timestamp": 1767647373,
+            "md5": "6ee3c25e69eecfced2f958e215f60e5b",
+            "sha256": "5171532d695bf985d85b16015a4ba5c83fa4135f76511a1dc15591c99901efe9",
+            "size": 3339699724,
+            "version": "12.5",
+            "buildtype": "weekly",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/OnyxAospfranlop77",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
