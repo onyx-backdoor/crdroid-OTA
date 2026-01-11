@@ -6,6 +6,24 @@ Device maintainer: stahed
 Highlights & Device Specific Changes:
 
 =====================
+      11-01-26
+=====================
+- Last sync sources
+- Jan security patch (qpr1)
+- Many improvements and additions to LunarisDolby, presets, new mods and scenarios,fixed overlap navbar buttons
+- Fix fast charging now
+- Add denials for oem charge
+- Drop control thermals
+- Drop HBM
+- Drop GameBar
+- Fix logspam camera
+- Fix some games had sound problems
+- Fix refresh rate control smmoth display definitely
+- Add vulkan support
+- Enable ADPF CPU hints for improved UI performance
+- Enable Wide Color Gamut support
+
+=====================
       05-01-26
 =====================
 - Last sync sources
