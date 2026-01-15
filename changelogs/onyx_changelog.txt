@@ -6,6 +6,21 @@ Device maintainer: stahed
 Highlights & Device Specific Changes:
 
 =====================
+      15-01-26
+=====================
+- Last sync sources
+- Fix Sometimes there is a delay in vibration, strange behavior; after 48 hours of use, do not confront it
+- Fix the problem of metallic sound in speakers in games like PUBG and others that use many textures and reverb
+- Switch to WildKernel and add KsuNext susfs support
+- Ota support
+
+Credits:
+- Thanks grewal for device sources
+- Thanks ghosuto for Lunaris Dolby
+- Thanks https://github.com/TheWildJames For WilDKernel
+- Thanks @begiuss for feedback my friend
+
+=====================
       11-01-26
 =====================
 - Last sync sources
