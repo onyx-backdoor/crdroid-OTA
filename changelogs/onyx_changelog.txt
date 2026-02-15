@@ -6,6 +6,27 @@ Device maintainer: stahed
 Highlights & Device Specific Changes:
 
 =====================
+      15-02-26
+=====================
+- Last sync sources
+- Lowered default screen density
+- Switch to QTI Vibrator service
+- Removed Dolby stack
+- Switch to AOSP NXP authsecret service
+- Switch to AOSP NXP keymint service
+- Switch to libperfmgr
+- Fix audio cutting out in VOIP calls
+- Updated blobs and fw from OS3.0.5.0.WOLMIXM
+- Drop more unused blobs and fw
+- Fix 5g vonr jio
+- Add call record for USA and Germany
+- Fix fastcharge
+- Enable VoNR Calls support
+- Relax RSSI thresholds fix ipv6
+- Add GameBar and support onyx
+- Add fixes bt audio in more ears cars and devices
+
+=====================
       15-01-26
 =====================
 - Last sync sources
